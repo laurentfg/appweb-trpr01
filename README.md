@@ -1,5 +1,8 @@
-# Vue 3 + TypeScript + Vite
+Travail TP1 pour le cours d'Applications web, représentant une version très basic d'un magasin d'objets D&D.
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+IA utilisé pour deux énoncés, surtout en rapport à la section HTML, les deux moments sont indiqués en commentaires dans le code.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+https://github.com/laurentfg/appweb-trpr01
+
+site déployé ici (recommandé de mettre des lunettes de protection avant d'ouvrir)
+https://laurentfg.github.io/appweb-trpr01/
